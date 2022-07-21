@@ -20,7 +20,7 @@ Before you start, please pay attention to the following information.
 Please name the branch according to the type of work being done on the branch and in the following format.
 #### `name-city/work type`
 #### Example:
-* azmi-prontera/task-1, azmi-prontera/quiz-1, azmi-prontera/project
+* `azmi-prontera/task-1`, `azmi-prontera/quiz-1`, `azmi-prontera/project`
 
 # Commits
 
