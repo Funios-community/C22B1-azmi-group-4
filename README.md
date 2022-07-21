@@ -23,4 +23,4 @@ Please name the branch according to the type of work being done on the branch an
 * `azmi-prontera/task-1`, `azmi-prontera/quiz-1`, `azmi-prontera/project`
 
 # Commits
-
+Please make sure the commit message is clear and in accordance with what changes you made.
