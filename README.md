@@ -18,7 +18,7 @@ Before you start, please pay attention to the following information.
 # Branch
 #### Naming
 Please name the branch according to the type of work being done on the branch and in the following format.
-#### `name-city/work type`
+#### `name/city-work type`
 #### Example:
 * `azmi/prontera-task-1`, `azmi/izlude-quiz-1`, `azmi/izlude-project`
 
