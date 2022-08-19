@@ -14,10 +14,24 @@
 	}, {
 		"name": "Samsudin",
 		"username": "samsudin003",
-		"email": "samsudin003@gmail.com"
+		"email": "samsudin003@gmail.com",
+		"photos": [{
+			"url": "url 1",
+			"title": "Pantai"
+		}, {
+			"url": "url 2",
+			"title": "sawah"
+		}]
 	}, {
 		"name": "Pikar",
 		"username": "pikar_09",
-		"email": "pikar_09@gmail.com"
+		"email": "pikar_09@gmail.com",
+		"photos": [{
+			"url": "url 1",
+			"title": "Pantai"
+		}, {
+			"url": "url 2",
+			"title": "sawah"
+		}]
 	}]
 }
