@@ -1,0 +1,16 @@
+{
+	"status": 200,
+	"data": [{
+		"name": "Yaffi Azmi",
+		"username": "eatsleepcoding",
+		"email": "yaffiazmi.dev@gmail.com"
+	}, {
+		"name": "Samsudin",
+		"username": "samsudin003",
+		"email": "samsudin003@gmail.com"
+	}, {
+		"name": "Pikar",
+		"username": "pikar_09",
+		"email": "pikar_09@gmail.com"
+	}]
+}
