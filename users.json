@@ -3,7 +3,14 @@
 	"data": [{
 		"name": "Yaffi Azmi",
 		"username": "eatsleepcoding",
-		"email": "yaffiazmi.dev@gmail.com"
+		"email": "yaffiazmi.dev@gmail.com",
+		"photos": [{
+			"url": "url 1",
+			"title": "Pantai"
+		}, {
+			"url": "url 2",
+			"title": "sawah"
+		}]
 	}, {
 		"name": "Samsudin",
 		"username": "samsudin003",
